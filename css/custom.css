@@ -98,4 +98,8 @@ footer {
         padding-top: 5%;
         max-width: 100px;
     }
+    .navbar-brand h2 {
+        font-size: 90%;
+    }
+
 }
